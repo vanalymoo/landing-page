@@ -1,0 +1,47 @@
+body{
+    background-image: url(imagens/are.jpg); 
+    background-size: cover;
+    margin:0;
+}
+
+.texto{
+    background-color: aliceblue;
+    margin:120px;
+    height: 400px;
+    opacity: 0.6;
+
+}
+
+.fontebotao{
+    width: 150px;
+    font-family: 'Indie Flower', cursive;
+    background-color: purple;
+    padding: 15px;
+    margin-left: 450px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.fontebotao:hover{
+    background-color: aqua;
+}
+
+.bot{
+    text-decoration: none;
+    color: white;
+}
+
+body h1{
+    font-family: 'Indie Flower', cursive;
+    font-size: 45px;
+    text-align: center;
+    margin:20px;
+}
+
+.primeiro{
+    font-size: 20px;
+    text-align: center;
+    color:purple;
+    font-family:'Indie Flower', cursive;
+    opacity: 1;
+}
